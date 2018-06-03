@@ -1,0 +1,10 @@
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\bin\Debug\UWBPlotter_Forms.exe.config
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\bin\Debug\UWBPlotter_Forms.exe
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\bin\Debug\UWBPlotter_Forms.pdb
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.csprojAssemblyReference.cache
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.Properties.Resources.resources
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.csproj.GenerateResource.cache
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.csproj.CoreCompileInputs.cache
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.exe
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.pdb
+c:\users\jfrye\Source\repos\UWBPlotter_Forms\UWBPlotter_Forms\obj\Debug\UWBPlotter_Forms.Plot1.resources
